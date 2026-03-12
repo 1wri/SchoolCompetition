@@ -1,0 +1,2 @@
+# SchoolCompetition
+学校竞赛管理系统带万字论文，基于Springboot的学校比赛管理系统，java项目
